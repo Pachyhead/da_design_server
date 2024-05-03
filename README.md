@@ -40,7 +40,6 @@ Ctrl+d
 ```
 
 * Install MongoDB >= 버전
-![image](https://github.com/Pachyhead/da_design_server/assets/131434212/8edbaeb8-cde2-4ded-824b-786946507de4)
 
 ---
 
