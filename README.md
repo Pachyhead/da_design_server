@@ -21,11 +21,27 @@
 
 #### How to install
 
+* Clone & Install
+
 ```sh
 git clone ...........
 cd da_design_server_학번
 pip3 install -r requirements.txt
 ```
+
+* Append a python path to `~/.bashrc` file.
+
+```sh
+~$ cat >> ~/.bashrc
+export PYTHONPATH=$PYTHONPATH:/home/username/
+Ctrl+d
+
+~$ source ~/.bashrc
+```
+
+* Install MongoDB >= 버전
+![image](https://github.com/Pachyhead/da_design_server/assets/131434212/8edbaeb8-cde2-4ded-824b-786946507de4)
+
 ---
 
 ### How to use
